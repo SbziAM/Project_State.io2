@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/amirmohammad/projects/Project_mabani/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/usr/include/SDL2 -I/home/amirmohammad/projects/Project_mabani/src  -g   -std=gnu99 -o CMakeFiles/SabziAM.dir/src/main.c.o   -c /home/amirmohammad/projects/Project_mabani/src/main.c",
+  "file": "/home/amirmohammad/projects/Project_mabani/src/main.c"
+}
+]

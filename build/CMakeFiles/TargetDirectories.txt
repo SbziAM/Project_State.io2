@@ -1,0 +1,3 @@
+/home/amirmohammad/projects/Project_mabani/build/CMakeFiles/rebuild_cache.dir
+/home/amirmohammad/projects/Project_mabani/build/CMakeFiles/edit_cache.dir
+/home/amirmohammad/projects/Project_mabani/build/CMakeFiles/SabziAM.dir

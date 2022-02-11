@@ -1,0 +1,2 @@
+/home/amirmohammad/projects/Project_mabani/CMakeFiles/rebuild_cache.dir
+/home/amirmohammad/projects/Project_mabani/CMakeFiles/edit_cache.dir
