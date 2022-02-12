@@ -7,3 +7,5 @@ Sources that are helpful:
 1. wiki.libsdl.org
 2. lazyfoo.net
 3. youtube.com
+
+Addresses of files and pictures are static in code.
